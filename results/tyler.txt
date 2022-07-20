@@ -1,0 +1,109 @@
+Query 1 Time Taken: 4.931871175765991
+Query 1 Diagonstics:
+   - Average CPU Usage: 0.04758392675483215
+   - Average RAM Usage: 66.77332146490362
+
+Query 2 Time Taken: 0.7580869197845459
+Query 2 Diagonstics:
+   - Average CPU Usage: 0.018253968253968255
+   - Average RAM Usage: 67.71714285714296
+
+Query 3 Time Taken: 2.1330111026763916
+Query 3 Diagonstics:
+   - Average CPU Usage: 0.009639953542392568
+   - Average RAM Usage: 67.68414634146342
+
+Query 4 Time Taken: 0.2460157871246338
+Query 4 Diagonstics:
+   - Average CPU Usage: 0.054337899543379
+   - Average RAM Usage: 68.20273972602712
+
+Query 5 Time Taken: 1.335273027420044
+Query 5 Diagonstics:
+   - Average CPU Usage: 0.05848708487084871
+   - Average RAM Usage: 68.30000000000139
+
+Query 6 Time Taken: 0.6188688278198242
+Query 6 Diagonstics:
+   - Average CPU Usage: 0.02581888246628131
+   - Average RAM Usage: 68.29999999999974
+
+Query 7 Time Taken: 2.1566710472106934
+Query 7 Diagonstics:
+   - Average CPU Usage: 0.1020797227036395
+   - Average RAM Usage: 68.30000000000196
+
+Query 8 Time Taken: 3.1790928840637207
+Query 8 Diagonstics:
+   - Average CPU Usage: 0.021646220815195887
+   - Average RAM Usage: 68.29999999999876
+
+Query 9 Time Taken: 9.113592863082886
+Query 9 Diagonstics:
+   - Average CPU Usage: 0.03625730994152047
+   - Average RAM Usage: 68.31420217209389
+
+Query 10 Time Taken: 0.8682162761688232
+Query 10 Diagonstics:
+   - Average CPU Usage: 0.08457446808510638
+   - Average RAM Usage: 68.4000000000009
+
+Query 11 Time Taken: 0.5500280857086182
+Query 11 Diagonstics:
+   - Average CPU Usage: 0.026769911504424777
+   - Average RAM Usage: 68.39358407079686
+
+Query 12 Time Taken: 0.7007789611816406
+Query 12 Diagonstics:
+   - Average CPU Usage: 0.0
+   - Average RAM Usage: 68.30000000000013
+
+Query 13 Time Taken: 4.7685136795043945
+Query 13 Diagonstics:
+   - Average CPU Usage: 0.05643120716921454
+   - Average RAM Usage: 68.475276752769
+
+Query 14 Time Taken: 0.8314509391784668
+Query 14 Diagonstics:
+   - Average CPU Usage: 0.01875
+   - Average RAM Usage: 68.31962209302378
+
+Query 15 Time Taken: 0.7309210300445557
+Query 15 Diagonstics:
+   - Average CPU Usage: 0.18892617449664428
+   - Average RAM Usage: 68.30000000000015
+
+Query 16 Time Taken: 0.2554440498352051
+Query 16 Diagonstics:
+   - Average CPU Usage: 0.04981412639405205
+   - Average RAM Usage: 68.20334572490705
+
+Query 17 Time Taken: 2142.893802881241
+Query 17 Diagonstics:
+   - Average CPU Usage: 0.04743460486741918
+   - Average RAM Usage: 68.70724540760389
+
+Query 18 Time Taken: 0.7237188816070557
+Query 18 Diagonstics:
+   - Average CPU Usage: 0.07839195979899496
+   - Average RAM Usage: 68.51943048576217
+
+Query 19 Time Taken: 0.9414811134338379
+Query 19 Diagonstics:
+   - Average CPU Usage: 0.10455729166666666
+   - Average RAM Usage: 68.56783854166568
+
+Query 20 Time Taken: 3115.501879930496
+Query 20 Diagonstics:
+   - Average CPU Usage: 0.04757374188736036
+   - Average RAM Usage: 68.28474674282461
+
+Query 21 Time Taken: 4.221510171890259
+Query 21 Diagonstics:
+   - Average CPU Usage: 0.03549645390070922
+   - Average RAM Usage: 67.31563829787031
+
+Query 22 Time Taken: 332.6300082206726
+Query 22 Diagonstics:
+   - Average CPU Usage: 0.057827045733669966
+   - Average RAM Usage: 67.08575622410362

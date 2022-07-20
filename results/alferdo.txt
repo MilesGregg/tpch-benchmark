@@ -1,0 +1,109 @@
+Query 1 Time Taken: 9.50284600257873
+Query 1 Diagonstics
+-Average CPU Usage: 0.0400502197112366
+-Average RAM Usage: 56.3471311990033
+
+Query 2 Time Taken: 1.60479092597961
+Query 2 Diagonstics
+-Average CPU Usage: 0.0217821782178217
+-Average RAM Usage: 56.2625176803379
+
+Query 3 Time Taken: 7.65275192260742
+Query 3 Diagonstics
+-Average CPU Usage: 0.052978434625245
+-Average RAM Usage: 56.2755089729979
+
+Query 4 Time Taken: 3.25511288642883
+Query 4 Diagonstics
+-Average CPU Usage: 0.00900423728813559
+-Average RAM Usage: 56.2999999999996
+
+Query 5 Time Taken: 4.23113489151
+Query 5 Diagonstics
+-Average CPU Usage: 0.0601331789229878
+-Average RAM Usage: 56.3525188187586
+
+Query 6 Time Taken: 1.20351004600524
+Query 6 Diagonstics
+-Average CPU Usage: 0.0671656686626746
+-Average RAM Usage: 56.4000000000009
+
+Query 7 Time Taken: 3.66288518905639
+Query 7 Diagonstics
+-Average CPU Usage: 0.0791319444444444
+-Average RAM Usage: 56.3999999999969
+
+Query 8 Time Taken: 6.27565383911132
+Query 8 Diagonstics
+-Average CPU Usage: 0.105813492063492
+-Average RAM Usage: 56.4000992063472
+
+Query 9 Time Taken: 16.1949760913848
+Query 9 Diagonstics
+-Average CPU Usage: 0.0396365613108643
+-Average RAM Usage: 56.4958841345034
+
+Query 10 Time Taken: 1.38910198211669
+Query 10 Diagonstics
+-Average CPU Usage: 0.0087979094076655
+-Average RAM Usage: 56.5
+
+Query 11 Time Taken: 1.32947778701782
+Query 11 Diagonstics
+-Average CPU Usage: 0.043677130044843
+-Average RAM Usage: 56.5
+
+Query 12 Time Taken: 1.11569571495056
+Query 12 Diagonstics
+-Average CPU Usage: 0.0109051254089422
+-Average RAM Usage: 56.5
+
+Query 13 Time Taken: 11.3404140472412
+Query 13 Diagonstics: 
+-Average CPU Usage: 0.061256135653726
+-Average RAM Usage: 56.5
+
+Query 14 Time Taken: 1.3922369480133
+Query 14 Diagonstics
+-Average CPU Usage: 0.130935875216637
+-Average RAM Usage: 56.4282495667253
+
+Query 15 Time Taken: 1.20157694816589
+Query 15 Diagonstics
+-Average CPU Usage: 0.135437881873727
+-Average RAM Usage: 56.5
+
+Query 16 Time Taken: 0.438530921936035
+Query 16 Diagonstics
+-Average CPU Usage: 0
+-Average RAM Usage: 56.5
+
+Query 17 Time Taken: 3038.39306998252
+Query 17 Diagonstics
+-Average CPU Usage: 0.0326548839097285
+-Average RAM Usage: 57.0855016707876
+
+Query 18 Time Taken: 1.24212193489074
+Query 18 Diagonstics
+-Average CPU Usage: 0.0365525672371638
+-Average RAM Usage: 56
+
+Query 19 Time Taken: 1.29249000549316
+Query 19 Diagonstics
+-Average CPU Usage: 0.0224705882352941
+-Average RAM Usage: 56
+
+Query 20 Time Taken: 4309.46820878982
+Query 20 Diagonstics
+-Average CPU Usage: 0.0306283351812847
+-Average RAM Usage: 56.5257730429126
+
+Query 21 Time Taken: 6.06105613708496
+Query 21 Diagonstics
+-Average CPU Usage: 0.018801912912157
+-Average RAM Usage: 55.7722376038287
+
+Query 22 Time Taken: 455.867128133773
+Query 22 Diagonstics
+-Average CPU Usage: 0.0309755559860778
+-Average RAM Usage: 55.7864171718909

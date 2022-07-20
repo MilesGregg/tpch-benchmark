@@ -6,7 +6,12 @@ connection = psycopg2.connect(
 )
 curr = connection.cursor()
 
-fd = open('tpch queries postgres.sql', 'r')
+curr.execute("SELECT COUNT(*) FROM lineitem")
+
+for i in curr.fetchall():
+   print(i)
+
+'''fd = open('tpch queries postgres.sql', 'r')
 sqlFile = fd.read()
 fd.close()
 
@@ -18,7 +23,7 @@ for command in sqlCommands[0:22]:
    #curr.execute(command)
    end_time = time.time()
    print("Query " + str(query) + " Time Taken:", end_time-start_time)
-   query += 1
+   query += 1'''
 
 connection.close()
 

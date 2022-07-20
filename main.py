@@ -13,7 +13,7 @@ time_PostgreSQL = []
 queris_MySQL = [int(i) for i in range(1, 23)]
 time_MySQL = []
 
-for i in ['MySQL']:
+for i in ['SQLite', 'PostgreSQL']:
     if i == 'SQLite':
         print("Starting SQLite Queries: \n")
         connection = sqlite3.connect('tpch.db')
@@ -88,6 +88,7 @@ for i in ['MySQL']:
             start_time = time.time()
             curr.execute(command)
             end_time = time.time()
+            curr.fetchall()
             delta_time = end_time-start_time
             time_MySQL.append(delta_time)
             print("Query " + str(query) + " Time Taken: " + str(delta_time) + " seconds")
@@ -99,11 +100,11 @@ print("\n\n\n\n\n")
 print("Times Arrays: ")
 print(time_SQLite)
 print(time_PostgreSQL)
-print(time_MySQL)
+#print(time_MySQL)
 
 plt.plot(queris_SQLite, time_SQLite, label = "SQLite")
 plt.plot(queris_PostgreSQL, time_PostgreSQL, label = "PostgreSQL")
-plt.plot(queris_MySQL, time_MySQL, label = "MySQL")
+#plt.plot(queris_MySQL, time_MySQL, label = "MySQL")
 
 plt.xlabel('Queries')
 plt.ylabel('Time (sec)')

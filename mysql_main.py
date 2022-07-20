@@ -8,7 +8,7 @@ connection = mysql.connector.connect(
   database="tpch"
 )
 
-curr = connection.cursor(buffered=True)
+curr = connection.cursor(buffered=False)
 
 fd = open('tpch queries postgres.sql', 'r')
 sqlFile = fd.read()
