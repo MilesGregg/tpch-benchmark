@@ -17,7 +17,7 @@ def run_diagnostics(query):
 connection = sqlite3.connect('tpch.db')
 curr = connection.cursor()
 
-fd = open('tpch queries sqlite.sql', 'r')
+fd = open('tpch queries sqlite optimized.sql', 'r')
 sqlFile = fd.read()
 fd.close()
 
